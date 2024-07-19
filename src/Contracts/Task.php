@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\BlueprintNovaAddon\Contracts;
+namespace Marv311\BlueprintNovaAddon\Contracts;
 
 use Closure;
 

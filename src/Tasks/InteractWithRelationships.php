@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\BlueprintNovaAddon\Tasks;
+namespace Marv311\BlueprintNovaAddon\Tasks;
 
 use Blueprint\Models\Column;
 use Illuminate\Support\Collection;

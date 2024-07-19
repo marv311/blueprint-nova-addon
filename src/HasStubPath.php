@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\BlueprintNovaAddon;
+namespace Marv311\BlueprintNovaAddon;
 
 trait HasStubPath
 {

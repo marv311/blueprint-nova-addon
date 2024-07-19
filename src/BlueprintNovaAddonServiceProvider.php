@@ -1,14 +1,14 @@
 <?php
 
-namespace Naoray\BlueprintNovaAddon;
+namespace Marv311\BlueprintNovaAddon;
 
 use Blueprint\Blueprint;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
-use Naoray\BlueprintNovaAddon\Tasks\AddIdentifierField;
-use Naoray\BlueprintNovaAddon\Tasks\AddRegularFields;
-use Naoray\BlueprintNovaAddon\Tasks\AddRelationshipFields;
-use Naoray\BlueprintNovaAddon\Tasks\AddTimestampFields;
+use Marv311\BlueprintNovaAddon\Tasks\AddIdentifierField;
+use Marv311\BlueprintNovaAddon\Tasks\AddRegularFields;
+use Marv311\BlueprintNovaAddon\Tasks\AddRelationshipFields;
+use Marv311\BlueprintNovaAddon\Tasks\AddTimestampFields;
 
 class BlueprintNovaAddonServiceProvider extends ServiceProvider implements DeferrableProvider
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\BlueprintNovaAddon\Tasks;
+namespace Marv311\BlueprintNovaAddon\Tasks;
 
 use Closure;
-use Naoray\BlueprintNovaAddon\Contracts\Task;
+use Marv311\BlueprintNovaAddon\Contracts\Task;
 
 class AddTimestampFields implements Task
 {
